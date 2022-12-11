@@ -15,9 +15,9 @@ I am a full stack developer with experience in Unity C# and cross platform devel
 ## Projects
 
 - Fitbag App: A cross platform mobile application built with Unity C#. This app allows users to connect and share information.
-- **MyServer**: A Node.js server built with Express and MongoDB. This server provides a REST API for a web application.
+- Fitbag Server: A Node.js server built with Express and MongoDB. This server provides a REST API for a mobile application.
 
 ## Contact
 
 - Email: kishorekishu171@gmail.com
-- LinkedIn: linkedin.com/in/kishorekumar
+- LinkedIn: [linkedin.com/in/kishorekumar](https://www.linkedin.com/in/kishore-kumar-719638151/)
