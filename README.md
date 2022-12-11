@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Kishore Kumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Kishore Kumar
 
-<!---
-Kishore025/Kishore025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I am a full stack developer with experience in Unity C# and cross platform development. I also have experience in Node.js, Express, and MongoDB. I am passionate about creating innovative and user-friendly applications.
+
+## Skills
+
+- Unity C#
+- Cross platform development
+- Node.js
+- Express
+- MongoDB
+
+## Projects
+
+- Fitbag App: A cross platform mobile application built with Unity C#. This app allows users to connect and share information.
+- **MyServer**: A Node.js server built with Express and MongoDB. This server provides a REST API for a web application.
+
+## Contact
+
+- Email: kishorekishu171@gmail.com
+- LinkedIn: linkedin.com/in/kishorekumar
