@@ -7,14 +7,16 @@ I am a full stack developer with experience in Unity C# and cross platform devel
 ## Skills
 
 - Unity C#
-- Cross platform development
+- Cross platform development(Android and iOS)
 - Node.js
 - Express
 - MongoDB
+- REST API's
+
 
 ## Projects
 
-- Fitbag App: A cross platform mobile application built with Unity C#. This app allows users to connect and share information.
+- Fitbag App: Fitbag App, a voice-activated smart fight system that uses HIT workouts and gamification to motivate users and improve their fitness. 
 - Fitbag Server: A Node.js server built with Express and MongoDB. This server provides a REST API for a mobile application.
 
 ## Contact
