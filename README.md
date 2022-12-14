@@ -14,6 +14,7 @@ I am a full stack developer with experience in Unity C# and cross platform devel
 - Express
 - MongoDB
 - REST API's
+- Python
 
 
 ## Projects
