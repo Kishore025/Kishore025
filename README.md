@@ -5,7 +5,7 @@ I am a software developer with expertise in Unity C# and cross-platform developm
 
 I am working on a React Native project
 
-Blog : ![Blog]([https://img.shields.io/badge/hashnode-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%black](https://kishore-powerdev.hashnode.dev/))
+[Kishore Kumar's Blog](https://kishore-powerdev.hashnode.dev/)
 
 # 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%black)
