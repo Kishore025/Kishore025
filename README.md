@@ -3,6 +3,8 @@
 # 💫 About Me:
 I am a software developer with expertise in Unity C# and cross-platform development. I have a strong background in Node.js, Express, and MongoDB, and am passionate about creating innovative and user-friendly applications. My experience in these technologies allows me to build and maintain high-quality, scalable software solutions.
 
+Currently working in React-Native App Development
+
 # 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%black)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
