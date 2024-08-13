@@ -1,13 +1,15 @@
 # ಕಿಶೋರ್ ಕುಮಾರ್ | Kishore Kumar
 
 # 💫 About Me:
-I am a software developer with expertise in Unity C# and cross-platform development. I have a strong background in Node.js, Express, and MongoDB, and am passionate about creating innovative and user-friendly applications. My experience in these technologies allows me to build and maintain high-quality, scalable software solutions.
+I am a software developer with Unity C# and cross-platform development expertise. I have a strong background in Reactjs, Node.js, Express, and MongoDB, and am passionate about creating innovative and user-friendly applications. My experience in these technologies allows me to build and maintain high-quality, scalable software solutions.
 
-I am working on a React Native project
+Now Working as Freelancer - Building Veroveren Project(Stack: React, Typscript and Spring Boot)
 
 [Kishore Kumar's Blog](https://kishore-powerdev.hashnode.dev/)
 
 # 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%23282c34.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%233d79c1.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity&logoColor=%black)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Android](https://img.shields.io/badge/android-%23323330.svg?style=for-the-badge&logo=android&logoColor=%black)
