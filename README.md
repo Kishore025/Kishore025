@@ -3,7 +3,7 @@
 # 💫 About Me:
 I am a software developer with Unity C# and cross-platform development expertise. I have a strong background in Reactjs, Node.js, Express, and MongoDB, and am passionate about creating innovative and user-friendly applications. My experience in these technologies allows me to build and maintain high-quality, scalable software solutions.
 
-Now Working as Freelancer - Building Veroveren Project(Stack: React, Typscript and Spring Boot)
+Now Working as Freelancer - Building Veroveren Project(Stack: React, Typescript and Spring Boot)
 
 [Kishore Kumar's Blog](https://kishore-powerdev.hashnode.dev/)
 
